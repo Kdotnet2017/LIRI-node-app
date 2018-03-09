@@ -2,7 +2,7 @@ var argument = process.argv;
 var command = argument[2];
 var commandParam = "";
 for (var i = 3; i < argument.length; i++) {
-    commandParam += process.argv[i] + " ";
+    commandParam += process.argv[i] + "-";
 }
 var keys = require("./keys.js");
 var request = require('request');
