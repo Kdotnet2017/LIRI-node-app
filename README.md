@@ -10,7 +10,7 @@ You are able to enter one of the following commands to receive result back.
 
 ## Requirements
 
-Before using LIRI app you need to install  below packages and accounts information.
+Before using LIRI app you need to install  below packages.
 
 * npm install dotenv --save
 * npm install --save node-spotify-ap
