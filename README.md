@@ -22,5 +22,6 @@ Before using LIRI app you need to install  below packages.
 * In addition to output the result to terminal window, it outputs the result to the log.txt file.
 * LIRI app command line is NOT case-sensitive.
 
+Download [LIRI](https://github.com/Kdotnet2017/liri-node-app)
 
 
