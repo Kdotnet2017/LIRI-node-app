@@ -17,3 +17,10 @@ Before using LIRI app you need to install  below packages and accounts informati
 * npm install twitter --save
 ### Also, You need twitter, spotify, and  OMDB developer API Keys.
 
+## Other Things
+
+* In addition to output the result to terminal window, it outputs the result to the log.txt file.
+* LIRI app command line is NOT case-sensitive.
+
+
+

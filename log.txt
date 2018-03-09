@@ -26,3 +26,7 @@ Artist(s): Adele
 The song's name: Hello
 Album: Hello
 A preview link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=8c9a7199e00348adaf82c45755df1c06
+Artist(s): Adele
+The song's name: Hello
+A preview link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=8c9a7199e00348adaf82c45755df1c06
+Album: Hello
