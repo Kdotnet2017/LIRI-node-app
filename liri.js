@@ -10,6 +10,7 @@ var fs = require("fs");
 require("dotenv").config();
 var Spotify = require('node-spotify-api');
 var twitter = require('twitter');
+command = command.toLowerCase();
 switch (command) {
     case 'my-tweets':
         tweetFunction();
