@@ -10,7 +10,9 @@ var fs = require("fs");
 require("dotenv").config();
 var Spotify = require('node-spotify-api');
 var twitter = require('twitter');
-command = command.toLowerCase();
+if (argument[2] != null) {
+    command = command.toLowerCase();
+}
 switch (command) {
     case 'my-tweets':
         tweetFunction();
@@ -60,7 +62,6 @@ function spotifyFunction(commandParam) {
             trace("The song's name: " + data.tracks.items[0].name);
             trace("A preview link: " + data.tracks.items[0].preview_url);
             trace("Album: " + data.tracks.items[0].album.name);
-            trace("----------------------------------------------------------");
         }
     });
 
